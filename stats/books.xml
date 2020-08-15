@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+    <Request>
+        <authentication>true</authentication>
+        <key>
+            <![CDATA[Q6oqXE31EC1Mh7Zwg67OZA]]>
+        </key>
+        <method>
+            <![CDATA[review_list]]>
+        </method>
+    </Request>
+    <books start="1" end="20" total="55" numpages="3" currentpage="1">
+        <book>
+            <id type="integer">26892110</id>
+            <isbn>0553418629</isbn>
+            <isbn13>9780553418620</isbn13>
+            <text_reviews_count type="integer">2840</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.YLFHPs5KnXOsZh4KfPBwNw</uri>
+            <title>The Library at Mount Char</title>
+            <title_without_series>The Library at Mount Char</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453225113l/26892110._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453225113l/26892110._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/26892110-the-library-at-mount-char</link>
+            <num_pages>388</num_pages>
+            <format>Paperback</format>
+            <edition_information/>
+            <publisher>Broadway Books</publisher>
+            <publication_day>15</publication_day>
+            <publication_year>2016</publication_year>
+            <publication_month>3</publication_month>
+            <average_rating>4.09</average_rating>
+            <ratings_count>31678</ratings_count>
+            <description>&lt;i&gt;A missing God.&lt;/i&gt;&lt;br /&gt;&lt;i&gt;A library with the secrets to the universe. &lt;/i&gt;&lt;br /&gt;&lt;i&gt;A woman too busy to notice her heart slipping away.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Carolyn's not so different from the other people around her. She likes guacamole and cigarettes and steak. She knows how to use a phone. Clothes are a bit tricky, but everyone says nice things about her outfit with the Christmas sweater over the gold bicycle shorts. After all, she was a normal American herself once.  &lt;br /&gt;&lt;br /&gt;That was a long time ago, of course. Before her parents died. Before she and the others were taken in by the man they called Father. In the years since then, Carolyn hasn't had a chance to get out much. Instead, she and her adopted siblings have been raised according to Father's ancient customs. They've studied the books in his Library and learned some of the secrets of his power. And sometimes, they've wondered if their cruel tutor might secretly be God.  Now, Father is missing—perhaps even dead—and the Library that holds his secrets stands unguarded. And with it, control over all of creation. &lt;br /&gt;&lt;br /&gt;As Carolyn gathers the tools she needs for the battle to come, fierce competitors for this prize align against her, all of them with powers that far exceed her own. But Carolyn has accounted for this. And Carolyn has a plan. The only trouble is that in the war to make a new God, she's forgotten to protect the things that make her human. &lt;br /&gt;&lt;br /&gt;Populated by an unforgettable cast of characters and propelled by a plot that will shock you again and again, &lt;i&gt;The Library at Mount Char&lt;/i&gt; is at once horrifying and hilarious, mind-blowingly alien and heartbreakingly human, sweepingly visionary and nail-bitingly thrilling—and signals the arrival of a major new voice in fantasy.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;From the Hardcover edition.&lt;/i&gt;</description>
+            <authors>
+                <author>
+                    <id>8446300</id>
+                    <name>Scott  Hawkins</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1430050068p5/8446300.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1430050068p2/8446300.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/8446300.Scott_Hawkins]]>
+                    </link>
+                    <average_rating>4.09</average_rating>
+                    <ratings_count>31606</ratings_count>
+                    <text_reviews_count>5732</text_reviews_count>
+                </author>
+            </authors>
+            <published>2016</published>
+            <work>
+                <id>42797715</id>
+                <uri>kca://work/amzn1.gr.work.v1.UdSE6s0sOaqx0MlHWhNJPQ</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">43352954</id>
+            <isbn nil="true"/>
+            <isbn13 nil="true"/>
+            <text_reviews_count type="integer">4924</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.0YAnmWCcGStyPdjbu-UNtA</uri>
+            <title>This Is How You Lose the Time War</title>
+            <title_without_series>This Is How You Lose the Time War</title_without_series>
+            <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+            <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war</link>
+            <num_pages>209</num_pages>
+            <format></format>
+            <edition_information/>
+            <publisher></publisher>
+            <publication_day></publication_day>
+            <publication_year></publication_year>
+            <publication_month></publication_month>
+            <average_rating>3.96</average_rating>
+            <ratings_count>28203</ratings_count>
+            <description>Among the ashes of a dying world, an agent of the Commandant finds a letter. It reads: &lt;i&gt;Burn before reading.&lt;/i&gt; Thus begins an unlikely correspondence between two rival agents hellbent on securing the best possible future for their warring factions. Now, what began as a taunt, a battlefield boast, grows into something more. Something epic. Something romantic. Something that could change the past and the future.&lt;br /&gt;&lt;br /&gt;Except the discovery of their bond would mean death for each of them. There's still a war going on, after all. And someone has to win that war.</description>
+            <authors>
+                <author>
+                    <id>4175512</id>
+                    <name>Amal El-Mohtar</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1299879154p5/4175512.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1299879154p2/4175512.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/4175512.Amal_El_Mohtar]]>
+                    </link>
+                    <average_rating>3.95</average_rating>
+                    <ratings_count>42829</ratings_count>
+                    <text_reviews_count>9175</text_reviews_count>
+                </author>
+            </authors>
+            <published></published>
+            <work>
+                <id>58237743</id>
+                <uri>kca://work/amzn1.gr.work.v1.YDUGw2WETy1nDsLADJPSsg</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">37638128</id>
+            <isbn>1250122996</isbn>
+            <isbn13>9781250122995</isbn13>
+            <text_reviews_count type="integer">1817</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.GXZZqTdmqViNJn3M97a7Pw</uri>
+            <title>Of Blood and Bone (Chronicles of The One, #2)</title>
+            <title_without_series>Of Blood and Bone</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525898215l/37638128._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525898215l/37638128._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/37638128-of-blood-and-bone</link>
+            <num_pages>453</num_pages>
+            <format>Hardcover</format>
+            <edition_information/>
+            <publisher>St. Martin's Press</publisher>
+            <publication_day>4</publication_day>
+            <publication_year>2018</publication_year>
+            <publication_month>12</publication_month>
+            <average_rating>4.28</average_rating>
+            <ratings_count>27005</ratings_count>
+            <description>&lt;b&gt;The #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author of the epic &lt;i&gt;Year One&lt;/i&gt; returns with a new tale of terror and magic in a brand new world.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;They look like an everyday family living an ordinary life. But beyond the edges of this peaceful farm, unimaginable forces of light and dark have been unleashed.&lt;br /&gt;&lt;br /&gt;Fallon Swift, approaching her thirteenth birthday, barely knows the world that existed before—the city where her parents lived, now in ruins and reclaimed by nature since the Doom sickened and killed billions. Traveling anywhere is a danger, as vicious gangs of Raiders and fanatics called Purity Warriors search for their next victim. Those like Fallon, in possession of gifts, are hunted—and the time is coming when her true nature, her identity as The One, can no longer be hidden.&lt;br /&gt;&lt;br /&gt;In a mysterious shelter in the forest, her training is about to begin under the guidance of Mallick, whose skills have been honed over centuries. She will learn the old ways of healing; study and spar; encounter faeries and elves and shifters; and find powers within herself she never imagined. And when the time is right, she will take up the sword, and fight. For until she grows into the woman she was born to be, the world outside will never be whole again.</description>
+            <authors>
+                <author>
+                    <id>625</id>
+                    <name>Nora Roberts</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1505847251p5/625.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1505847251p2/625.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/625.Nora_Roberts]]>
+                    </link>
+                    <average_rating>4.09</average_rating>
+                    <ratings_count>3863345</ratings_count>
+                    <text_reviews_count>155797</text_reviews_count>
+                </author>
+            </authors>
+            <published>2018</published>
+            <work>
+                <id>59225538</id>
+                <uri>kca://work/amzn1.gr.work.v1.LojOUHJZGzvdLCiwjz416A</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">34311452</id>
+            <isbn>1250122953</isbn>
+            <isbn13>9781250122957</isbn13>
+            <text_reviews_count type="integer">4860</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.7aJIitRkp5l89J7uTJPl8Q</uri>
+            <title>Year One (Chronicles of The One, #1)</title>
+            <title_without_series>Year One</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488360073l/34311452._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488360073l/34311452._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/34311452-year-one</link>
+            <num_pages>419</num_pages>
+            <format>Hardcover</format>
+            <edition_information/>
+            <publisher>St. Martin's Press</publisher>
+            <publication_day>5</publication_day>
+            <publication_year>2017</publication_year>
+            <publication_month>12</publication_month>
+            <average_rating>4.02</average_rating>
+            <ratings_count>64152</ratings_count>
+            <description>It began on New Year's Eve.&lt;br /&gt;&lt;br /&gt;The sickness came on suddenly, and spread quickly. The fear spread even faster. Within weeks, everything people counted on began to fail them. The electrical grid sputtered; law and government collapsed--and more than half of the world's population was decimated.&lt;br /&gt;&lt;br /&gt;Where there had been order, there was now chaos. And as the power of science and technology receded, magic rose up in its place. Some of it is good, like the witchcraft worked by Lana Bingham, practicing in the loft apartment she shares with her lover, Max. Some of it is unimaginably evil, and it can lurk anywhere, around a corner, in fetid tunnels beneath the river--or in the ones you know and love the most.&lt;br /&gt;&lt;br /&gt;As word spreads that neither the immune nor the gifted are safe from the authorities who patrol the ravaged streets, and with nothing left to count on but each other, Lana and Max make their way out of a wrecked New York City. At the same time, other travelers are heading west too, into a new frontier. Chuck, a tech genius trying to hack his way through a world gone offline. Arlys, a journalist who has lost her audience but uses pen and paper to record the truth. Fred, her young colleague, possessed of burgeoning abilities and an optimism that seems out of place in this bleak landscape. And Rachel and Jonah, a resourceful doctor and a paramedic who fend off despair with their determination to keep a young mother and three infants in their care alive.&lt;br /&gt;&lt;br /&gt;In a world of survivors where every stranger encountered could be either a savage or a savior, none of them knows exactly where they are heading, or why. But a purpose awaits them that will shape their lives and the lives of all those who remain.&lt;br /&gt;&lt;br /&gt;The end has come. The beginning comes next.</description>
+            <authors>
+                <author>
+                    <id>625</id>
+                    <name>Nora Roberts</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1505847251p5/625.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1505847251p2/625.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/625.Nora_Roberts]]>
+                    </link>
+                    <average_rating>4.09</average_rating>
+                    <ratings_count>3863345</ratings_count>
+                    <text_reviews_count>155797</text_reviews_count>
+                </author>
+            </authors>
+            <published>2017</published>
+            <work>
+                <id>55367060</id>
+                <uri>kca://work/amzn1.gr.work.v1.HAyA3HQeMK6syJ_2UgUelw</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">41961994</id>
+            <isbn>1984806386</isbn>
+            <isbn13>9781984806383</isbn13>
+            <text_reviews_count type="integer">971</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.iuh-Wv9-fXBbM0_hUXIdLw</uri>
+            <title>The Library of the Unwritten (Hell's Library #1)</title>
+            <title_without_series>The Library of the Unwritten</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551259771l/41961994._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551259771l/41961994._SX50_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/41961994-the-library-of-the-unwritten</link>
+            <num_pages>384</num_pages>
+            <format>ebook</format>
+            <edition_information/>
+            <publisher>Ace Books</publisher>
+            <publication_day>1</publication_day>
+            <publication_year>2019</publication_year>
+            <publication_month>10</publication_month>
+            <average_rating>3.85</average_rating>
+            <ratings_count>6491</ratings_count>
+            <description>&lt;b&gt;In the first book in a brilliant new fantasy series, books that aren't finished by their authors reside in the Library of the Unwritten in Hell, and it is up to the Librarian to track down any restless characters who emerge from those unfinished stories.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Many years ago, Claire was named Head Librarian of the Unwritten Wing—a neutral space in Hell where all the stories unfinished by their authors reside. Her job consists mainly of repairing and organizing books, but also of keeping an eye on restless stories that risk materializing as characters and escaping the library. When a Hero escapes from his book and goes in search of his author, Claire must track and capture him with the help of former muse and current assistant Brevity and nervous demon courier Leto.&lt;br /&gt;&lt;br /&gt;But what should have been a simple retrieval goes horrifyingly wrong when the terrifyingly angelic Ramiel attacks them, convinced that they hold the Devil's Bible. The text of the Devil's Bible is a powerful weapon in the power struggle between Heaven and Hell, so it falls to the librarians to find a book with the power to reshape the boundaries between Heaven, Hell ... and Earth.</description>
+            <authors>
+                <author>
+                    <id>18093815</id>
+                    <name>A.J. Hackwith</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1549407059p5/18093815.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1549407059p2/18093815.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/18093815.A_J_Hackwith]]>
+                    </link>
+                    <average_rating>3.86</average_rating>
+                    <ratings_count>6693</ratings_count>
+                    <text_reviews_count>1490</text_reviews_count>
+                </author>
+            </authors>
+            <published>2019</published>
+            <work>
+                <id>65480284</id>
+                <uri>kca://work/amzn1.gr.work.v1.pcH2EfNf3wqIoJwhK31yPg</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">12159908</id>
+            <isbn>1599907240</isbn>
+            <isbn13>9781599907246</isbn13>
+            <text_reviews_count type="integer">101</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.JLmrMF-GR5esxtUkBBfU2w</uri>
+            <title>Dragonborn</title>
+            <title_without_series>Dragonborn</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315597973l/12159908._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315597973l/12159908._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/12159908-dragonborn</link>
+            <num_pages>352</num_pages>
+            <format>Hardcover</format>
+            <edition_information/>
+            <publisher>Bloomsbury Children's Books</publisher>
+            <publication_day>24</publication_day>
+            <publication_year>2012</publication_year>
+            <publication_month>4</publication_month>
+            <average_rating>3.69</average_rating>
+            <ratings_count>921</ratings_count>
+            <description>When Flaxfield the great wizard dies, his apprentice Sam is left without a master. Sam has great power-but he doesn't know it yet. All he knows is that he needs a new master if he wants to finish his education in magic.&lt;br /&gt;&lt;br /&gt;With his dragon Starback at his side, Sam sets out alone on his quest. But there are those who want Sam's power for themselves, dangerous forces who are waiting for his first mistake so they can attack. When Sam is tricked into making a mortal error, only Starback can save him, thanks to a bond between them that is deeper than either of them know.&lt;br /&gt;&lt;br /&gt;With a strong sense of adventure and a lyrical writing style, Toby Forward has created a page-turning, accessible fantasy with the literary quality of a classic.</description>
+            <authors>
+                <author>
+                    <id>126353</id>
+                    <name>Toby Forward</name>
+                    <role></role>
+                    <image_url nophoto='true'>
+                        <![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+                    </image_url>
+                    <small_image_url nophoto='true'>
+                        <![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/126353.Toby_Forward]]>
+                    </link>
+                    <average_rating>3.81</average_rating>
+                    <ratings_count>2001</ratings_count>
+                    <text_reviews_count>319</text_reviews_count>
+                </author>
+            </authors>
+            <published>2012</published>
+            <work>
+                <id>17130915</id>
+                <uri>kca://work/amzn1.gr.work.v1.TxWJUEQZvuwNnVJVOZc0Fw</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">46225061</id>
+            <isbn>0593135237</isbn>
+            <isbn13>9780593135235</isbn13>
+            <text_reviews_count type="integer">2917</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.VDDvlp151zaJMIB23lrhdQ</uri>
+            <title>The Two Lives of Lydia Bird</title>
+            <title_without_series>The Two Lives of Lydia Bird</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583446296l/46225061._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583446296l/46225061._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/46225061-the-two-lives-of-lydia-bird</link>
+            <num_pages>369</num_pages>
+            <format>Hardcover</format>
+            <edition_information/>
+            <publisher>Ballantine Books</publisher>
+            <publication_day>3</publication_day>
+            <publication_year>2020</publication_year>
+            <publication_month>3</publication_month>
+            <average_rating>3.85</average_rating>
+            <ratings_count>23837</ratings_count>
+            <description>Lydia and Freddie. Freddie and Lydia. They'd been together for more than a decade, and Lydia thought their love was indestructible.&lt;br /&gt;&lt;br /&gt;But she was wrong. On her twenty-eighth birthday, Freddie died in a car accident.&lt;br /&gt;&lt;br /&gt;So now it's just Lydia, and all she wants to do is hide indoors and sob until her eyes fall out. But Lydia knows that Freddie would want her to try to live fully, happily, even without him. So, enlisting the help of his best friend, Jonah, and her sister, Elle, she takes her first tentative steps into the world, open to life--and perhaps even love--again.&lt;br /&gt;&lt;br /&gt;But then something inexplicable happens that gives her another chance at her old life with Freddie. A life where none of the tragic events of the past few months have happened.&lt;br /&gt;&lt;br /&gt;Lydia is pulled again and again across the doorway of her past, living two lives, impossibly, at once. But there's an emotional toll to returning to a world where Freddie, alive, still owns her heart. Because there's someone in her new life, her real life, who wants her to stay.&lt;br /&gt;&lt;br /&gt;Written with Josie Silver's trademark warmth and wit, &lt;i&gt;The Two Lives of Lydia Bird&lt;/i&gt; is a powerful and thrilling love story about the what-ifs that arise at life's crossroads, and what happens when one woman is given a miraculous chance to answer them.</description>
+            <authors>
+                <author>
+                    <id>16737899</id>
+                    <name>Josie Silver</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1579694078p5/16737899.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1579694078p2/16737899.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/16737899.Josie_Silver]]>
+                    </link>
+                    <average_rating>3.94</average_rating>
+                    <ratings_count>162732</ratings_count>
+                    <text_reviews_count>18091</text_reviews_count>
+                </author>
+            </authors>
+            <published>2020</published>
+            <work>
+                <id>65929772</id>
+                <uri>kca://work/amzn1.gr.work.v1.zrEIDp1z1u7G5n6dMqg6sA</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">7171637</id>
+            <isbn>1416975861</isbn>
+            <isbn13>9781416975861</isbn13>
+            <text_reviews_count type="integer">25651</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.OF0iNXBHg6zYffAovgJdYQ</uri>
+            <title>Clockwork Angel (The Infernal Devices, #1)</title>
+            <title_without_series>Clockwork Angel</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454962884l/7171637._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454962884l/7171637._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/7171637-clockwork-angel</link>
+            <num_pages>481</num_pages>
+            <format>Hardcover</format>
+            <edition_information>First Edition</edition_information>
+            <publisher>Simon &amp; Schuster, Margaret K. McElderry </publisher>
+            <publication_day>31</publication_day>
+            <publication_year>2010</publication_year>
+            <publication_month>8</publication_month>
+            <average_rating>4.33</average_rating>
+            <ratings_count>649387</ratings_count>
+            <description>In a time when Shadowhunters are barely winning the fight against the forces of darkness, one battle will change the course of history forever. Welcome to the Infernal Devices trilogy, a stunning and dangerous prequel to the &lt;i&gt;New York Times&lt;/i&gt; bestselling Mortal Instruments series.&lt;br /&gt;&lt;br /&gt;The year is 1878. Tessa Gray descends into London’s dark supernatural underworld in search of her missing brother. She soon discovers that her only allies are the demon-slaying Shadowhunters—including Will and Jem, the mysterious boys she is attracted to. Soon they find themselves up against the Pandemonium Club, a secret organization of vampires, demons, warlocks, and humans. Equipped with a magical army of unstoppable clockwork creatures, the Club is out to rule the British Empire, and only Tessa and her allies can stop them...</description>
+            <authors>
+                <author>
+                    <id>150038</id>
+                    <name>Cassandra Clare</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1270502031p5/150038.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1270502031p2/150038.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]>
+                    </link>
+                    <average_rating>4.25</average_rating>
+                    <ratings_count>6832076</ratings_count>
+                    <text_reviews_count>387566</text_reviews_count>
+                </author>
+            </authors>
+            <published>2010</published>
+            <work>
+                <id>6674837</id>
+                <uri>kca://work/amzn1.gr.work.v1.uJ155hcHmailcfH7mo2lzw</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">11238484</id>
+            <isbn nil="true"/>
+            <isbn13 nil="true"/>
+            <text_reviews_count type="integer">69</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.AGQeBSrIdhyVVVFI9apKUA</uri>
+            <title>A Wizard of Earthsea (The Earthsea Cycle, #1)</title>
+            <title_without_series>A Wizard of Earthsea</title_without_series>
+            <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+            <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/11238484-a-wizard-of-earthsea</link>
+            <num_pages>205</num_pages>
+            <format>Hardcover</format>
+            <edition_information/>
+            <publisher>Parnassus Press</publisher>
+            <publication_day/>
+            <publication_year>1968</publication_year>
+            <publication_month>11</publication_month>
+            <average_rating>3.99</average_rating>
+            <ratings_count>233558</ratings_count>
+            <description>Ged, the greatest sorcerer in all Earthsea, was called Sparrowhawk in his reckless youth. &lt;br /&gt;&lt;br /&gt;Hungry for power and knowledge, Sparrowhawk tampered with long-held secrets and loosed a terrible shadow upon the world. This is the tale of his testing, how he mastered the mighty words of power, tamed an ancient dragon, and crossed death's threshold to restore the balance.</description>
+            <authors>
+                <author>
+                    <id>874602</id>
+                    <name>Ursula K. Le Guin</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1244291425p5/874602.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1244291425p2/874602.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin]]>
+                    </link>
+                    <average_rating>4.05</average_rating>
+                    <ratings_count>993633</ratings_count>
+                    <text_reviews_count>59430</text_reviews_count>
+                </author>
+            </authors>
+            <published>1968</published>
+            <work>
+                <id>113603</id>
+                <uri>kca://work/amzn1.gr.work.v1.GxrQvIxdiGIW-OF1X3MPlQ</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">42771754</id>
+            <isbn>1250078385</isbn>
+            <isbn13>9781250078384</isbn13>
+            <text_reviews_count type="integer">3456</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.D6xjLgOuGMEiT85IVEbFrw</uri>
+            <title>Supernova (Renegades, #3)</title>
+            <title_without_series>Supernova</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557159835l/42771754._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557159835l/42771754._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/42771754-supernova</link>
+            <num_pages>552</num_pages>
+            <format>Hardcover</format>
+            <edition_information/>
+            <publisher>Feiwel &amp; Friends</publisher>
+            <publication_day>5</publication_day>
+            <publication_year>2019</publication_year>
+            <publication_month>11</publication_month>
+            <average_rating>4.42</average_rating>
+            <ratings_count>20734</ratings_count>
+            <description>&lt;b&gt;All's fair in love and anarchy...&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The epic conclusion to Marissa Meyer's thrilling Renegades Trilogy finds Nova and Adrian fighting to keep their identities secret. While the battle rages on between their alter egos and their allies, there is a darker threat shrouding Gatlon City.&lt;br /&gt;&lt;br /&gt;The Renegades' worst enemy is back among them, threatening to reclaim Gatlon City. Nova and Adrian must brave lies and betrayal to protect those they love. Their greatest fears are about to come to life, and unless they can bridge the divide between heroes and villains, they stand to lose everything. Including each other.&lt;br /&gt;&lt;br /&gt;Intrigue and action will leave readers on edge until the final, shocking secrets are revealed.</description>
+            <authors>
+                <author>
+                    <id>4684322</id>
+                    <name>Marissa Meyer</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1558121336p5/4684322.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1558121336p2/4684322.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/4684322.Marissa_Meyer]]>
+                    </link>
+                    <average_rating>4.23</average_rating>
+                    <ratings_count>1875255</ratings_count>
+                    <text_reviews_count>203008</text_reviews_count>
+                </author>
+            </authors>
+            <published>2019</published>
+            <work>
+                <id>62311508</id>
+                <uri>kca://work/amzn1.gr.work.v1.CkO5oyQPm04FrjKHb1oIsg</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">35425827</id>
+            <isbn>1250311446</isbn>
+            <isbn13>9781250311443</isbn13>
+            <text_reviews_count type="integer">2980</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.EkINLxMZ_cBRQ86VlcNs4w</uri>
+            <title>Archenemies (Renegades, #2)</title>
+            <title_without_series>Archenemies</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526668679l/35425827._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526668679l/35425827._SX50_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/35425827-archenemies</link>
+            <num_pages>560</num_pages>
+            <format>ebook</format>
+            <edition_information/>
+            <publisher>Feiwel &amp; Friends</publisher>
+            <publication_day>6</publication_day>
+            <publication_year>2018</publication_year>
+            <publication_month>11</publication_month>
+            <average_rating>4.30</average_rating>
+            <ratings_count>30697</ratings_count>
+            <description>The Renegades Trilogy continues, in this fiercely awaited second installment after the New York Times-bestselling Renegades by Marissa Meyer, author of the Lunar Chronicles.&lt;br /&gt;&lt;br /&gt;Time is running out.&lt;br /&gt;Together, they can save the world.&lt;br /&gt;But they each other's worst nightmare.&lt;br /&gt;&lt;br /&gt;In Renegades, Nova and Adrian (aka Insomnia and Sketch) fought the battle of their lives against the Anarchist known as the Detonator. It was a short-lived victory.&lt;br /&gt;&lt;br /&gt;The Anarchists still have a secret weapon, one that Nova believes will protect her. The Renegades also have a strategy for overpowering the Anarchists, but both Nova and Adrian understand that it could mean the end of Gatlon City - and the world - as they know it.</description>
+            <authors>
+                <author>
+                    <id>4684322</id>
+                    <name>Marissa Meyer</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1558121336p5/4684322.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1558121336p2/4684322.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/4684322.Marissa_Meyer]]>
+                    </link>
+                    <average_rating>4.23</average_rating>
+                    <ratings_count>1875255</ratings_count>
+                    <text_reviews_count>203008</text_reviews_count>
+                </author>
+            </authors>
+            <published>2018</published>
+            <work>
+                <id>56802959</id>
+                <uri>kca://work/amzn1.gr.work.v1.8qnpUFr1lERoNP5MbNCszw</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">52486678</id>
+            <isbn>0358164087</isbn>
+            <isbn13>9780358164081</isbn13>
+            <text_reviews_count type="integer">944</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v3.-Wtyj_KHuevRG8tG</uri>
+            <title>Chosen Ones (The Chosen Ones, #1)</title>
+            <title_without_series>Chosen Ones</title_without_series>
+            <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+            <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/52486678-chosen-ones</link>
+            <num_pages></num_pages>
+            <format></format>
+            <edition_information/>
+            <publisher></publisher>
+            <publication_day></publication_day>
+            <publication_year></publication_year>
+            <publication_month></publication_month>
+            <average_rating>3.65</average_rating>
+            <ratings_count>9217</ratings_count>
+            <description>&lt;b&gt;The first novel written for an adult audience by the mega-selling author of the Divergent franchise: five twenty-something heroes famous for saving the world when they were teenagers must face even greater demons—and reconsider what it means to be a hero . . . by destiny or by choice.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;A decade ago near Chicago, five teenagers defeated the otherworldly enemy known as the Dark One, whose reign of terror brought widespread destruction and death. The seemingly un-extraordinary teens—Sloane, Matt, Ines, Albie, and Esther—had been brought together by a clandestine government agency because one of them was fated to be the “Chosen One,” prophesized to save the world. With the goal achieved, humankind celebrated the victors and began to mourn their lost loved ones.&lt;br /&gt; &lt;br /&gt;Ten years later, though the champions remain celebrities, the world has moved forward and a whole, younger generation doesn’t seem to recall the days of endless fear. But Sloane remembers. It’s impossible for her to forget when the paparazzi haunt her every step just as the Dark One still haunts her dreams. Unlike everyone else, she hasn’t moved on; she’s adrift—no direction, no goals, no purpose. On the eve of the Ten Year Celebration of Peace, a new trauma hits the Chosen: the death of one of their own. And when they gather for the funeral at the enshrined site of their triumph, they discover to their horror that the Dark One’s reign never really ended.</description>
+            <authors>
+                <author>
+                    <id>4039811</id>
+                    <name>Veronica Roth</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1588707274p5/4039811.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1588707274p2/4039811.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/4039811.Veronica_Roth]]>
+                    </link>
+                    <average_rating>4.06</average_rating>
+                    <ratings_count>5395865</ratings_count>
+                    <text_reviews_count>272333</text_reviews_count>
+                </author>
+            </authors>
+            <published></published>
+            <work>
+                <id>63849134</id>
+                <uri>kca://work/amzn1.gr.work.v1.Cw0QrPJooAjpDi6sjpYeNA</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">35391237</id>
+            <isbn>0062686178</isbn>
+            <isbn13>9780062686176</isbn13>
+            <text_reviews_count type="integer">1565</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.rxK-NDMjDcdZmCWjBe2_FQ</uri>
+            <title>Five ​Dark Fates (Three Dark Crowns, #4)</title>
+            <title_without_series>Five ​Dark Fates</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549656837l/35391237._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549656837l/35391237._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/35391237-five-dark-fates</link>
+            <num_pages>452</num_pages>
+            <format>Hardcover</format>
+            <edition_information/>
+            <publisher>HarperTeen</publisher>
+            <publication_day>3</publication_day>
+            <publication_year>2019</publication_year>
+            <publication_month>9</publication_month>
+            <average_rating>3.94</average_rating>
+            <ratings_count>12362</ratings_count>
+            <description>After the grim confrontation with Queen Katharine, the rebellion lies in tatters. Jules’s legion curse has been unbound, and it is up to Arsinoe to find a cure, even as the responsibility of stopping the ravaging mist lies heavy on her shoulders, and her shoulders alone. Mirabella has disappeared.&lt;br /&gt;&lt;br /&gt;Katharine’s reign remains intact—for now. When Mirabella arrives, seemingly under a banner of truce, Katharine begins to yearn for the closeness that Mirabella and Arsinoe share. But as the two circle each other, the dead queens hiss caution—Mirabella is not to be trusted.&lt;br /&gt;&lt;br /&gt;In this conclusion to the Three Dark Crowns series, three sisters will rise to fight as the secrets of Fennbirn’s history are laid bare. Allegiances will shift. Bonds will be tested. But the fate of the island lies in the hands of its queens. It always has.</description>
+            <authors>
+                <author>
+                    <id>4086715</id>
+                    <name>Kendare Blake</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1276645449p5/4086715.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1276645449p2/4086715.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/4086715.Kendare_Blake]]>
+                    </link>
+                    <average_rating>3.92</average_rating>
+                    <ratings_count>307909</ratings_count>
+                    <text_reviews_count>41306</text_reviews_count>
+                </author>
+            </authors>
+            <published>2019</published>
+            <work>
+                <id>56756354</id>
+                <uri>kca://work/amzn1.gr.work.v1.DtlKxtcUuDcMqZub1B0I1w</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">20758104</id>
+            <isbn>0763676187</isbn>
+            <isbn13>9780763676186</isbn13>
+            <text_reviews_count type="integer">2071</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1._WfE2iAstkiFP0AY7qt6zg</uri>
+            <title>The Knife of Never Letting Go (Chaos Walking, #1)</title>
+            <title_without_series>The Knife of Never Letting Go</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534503008l/20758104._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534503008l/20758104._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/20758104-the-knife-of-never-letting-go</link>
+            <num_pages>512</num_pages>
+            <format>Paperback</format>
+            <edition_information>Second U.S. Paperback Edition</edition_information>
+            <publisher>Candlewick Press</publisher>
+            <publication_day>22</publication_day>
+            <publication_year>2014</publication_year>
+            <publication_month>7</publication_month>
+            <average_rating>3.98</average_rating>
+            <ratings_count>149230</ratings_count>
+            <description>Todd Hewitt is the only boy in a town of men. Ever since the settlers were infected with the Noise germ, Todd can hear everything the men think, and they hear everything he thinks. Todd is just a month away from becoming a man, but in the midst of the cacophony, he knows that the town is hiding something from him -- something so awful Todd is forced to flee with only his dog, whose simple, loyal voice he hears too. With hostile men from the town in pursuit, the two stumble upon a strange and eerily silent creature: a girl. Who is she? Why wasn't she killed by the germ like all the females on New World? Propelled by Todd's gritty narration, readers are in for a white-knuckle journey in which a boy on the cusp of manhood must unlearn everything he knows in order to figure out who he truly is.</description>
+            <authors>
+                <author>
+                    <id>370361</id>
+                    <name>Patrick Ness</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1589369436p5/370361.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1589369436p2/370361.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/370361.Patrick_Ness]]>
+                    </link>
+                    <average_rating>4.12</average_rating>
+                    <ratings_count>638001</ratings_count>
+                    <text_reviews_count>87734</text_reviews_count>
+                </author>
+            </authors>
+            <published>2014</published>
+            <work>
+                <id>2124180</id>
+                <uri>kca://work/amzn1.gr.work.v1.sTiYr5FbOLCil8f16exuJw</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">40604556</id>
+            <isbn nil="true"/>
+            <isbn13 nil="true"/>
+            <text_reviews_count type="integer">785</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.onfp4bnH4ASoPYOc6THpMQ</uri>
+            <title>Red Seas Under Red Skies (Gentleman Bastard, #2)</title>
+            <title_without_series>Red Seas Under Red Skies</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529603335l/40604556._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529603335l/40604556._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/40604556-red-seas-under-red-skies</link>
+            <num_pages>578</num_pages>
+            <format>Kindle Edition</format>
+            <edition_information/>
+            <publisher>Del Rey</publisher>
+            <publication_day/>
+            <publication_year>2018</publication_year>
+            <publication_month>6</publication_month>
+            <average_rating>4.24</average_rating>
+            <ratings_count>108872</ratings_count>
+            <description>&lt;i&gt;&lt;u&gt;Librarian note:&lt;/u&gt; An older cover for this edition can be found here: &lt;a href="https://www.goodreads.com/book/edit/8176890-red-seas-under-red-skies" rel="nofollow"&gt;31-Jul-2007&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;After a brutal battle with the underworld that nearly destroyed him, Locke Lamora and his trusted sidekick, Jean, fled the island city of their birth and landed on the exotic shores of Tal Verrar to nurse their wounds. But even at this westernmost edge of civilization, they can't rest for long---and they are soon back doing what they do best: stealing from the undeserving rich and pocketing the proceeds for themselves.&lt;br /&gt;&lt;br /&gt;This time, however, they have targeted the grandest prize of all: the Sinspire, the most exclusive and heavily guarded gambling house in the world. Its nine floors attract the wealthiest clientele - and to rise to the top, one must impress with good credit, amusing behavior...and excruciatingly impeccable play. For there is one cardinal rule, enforced by Requin, the house's cold-blooded master: it is death to cheat at any game at the Sinspire.Brazenly undeterred, Locke and Jean have orchestrated an elaborate plan to lie, trick, and swindle their way up the nine floors...straight to Requin's teeming vault. Under the cloak of false identities, they meticulously make their climb - until they are closer to the spoils than ever.&lt;br /&gt;&lt;br /&gt;But someone in Tal Verrar has uncovered the duo's secret. Someone from their past who has every intention of making the impudent criminals pay for their sins. Now it will take every ounce of cunning to save their mercenary souls. And even that may not be enough.</description>
+            <authors>
+                <author>
+                    <id>73149</id>
+                    <name>Scott Lynch</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1332432746p5/73149.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1332432746p2/73149.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/73149.Scott_Lynch]]>
+                    </link>
+                    <average_rating>4.24</average_rating>
+                    <ratings_count>432460</ratings_count>
+                    <text_reviews_count>28131</text_reviews_count>
+                </author>
+            </authors>
+            <published>2018</published>
+            <work>
+                <id>856785</id>
+                <uri>kca://work/amzn1.gr.work.v1.dtfSYnvH3KiI0U7RTo6iGw</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">45240918</id>
+            <isbn>0062338110</isbn>
+            <isbn13>9780062338112</isbn13>
+            <text_reviews_count type="integer">3088</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.LmwHO9_G7YFG8UqV8IwaYg</uri>
+            <title>The Hand on the Wall (Truly Devious, #3)</title>
+            <title_without_series>The Hand on the Wall</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561155199l/45240918._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561155199l/45240918._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/45240918-the-hand-on-the-wall</link>
+            <num_pages>369</num_pages>
+            <format>Hardcover</format>
+            <edition_information/>
+            <publisher>Katherine Tegen Books</publisher>
+            <publication_day>21</publication_day>
+            <publication_year>2020</publication_year>
+            <publication_month>1</publication_month>
+            <average_rating>4.21</average_rating>
+            <ratings_count>19604</ratings_count>
+            <description>Ellingham Academy must be cursed. Three people are now dead. One, a victim of either a prank gone wrong or a murder. Another, dead by misadventure. And now, an accident in Burlington has claimed another life. All three in the wrong place at the wrong time. All at the exact moment of Stevie’s greatest triumph . . .&lt;br /&gt;&lt;br /&gt;She knows who Truly Devious is. She’s solved it. The greatest case of the century.&lt;br /&gt;&lt;br /&gt;At least, she thinks she has. With this latest tragedy, it’s hard to concentrate on the past. Not only has someone died in town, but David disappeared of his own free will and is up to something. Stevie is sure that somehow—somehow—all these things connect. The three deaths in the present. The deaths in the past. The missing Alice Ellingham and the missing David Eastman. Somewhere in this place of riddles and puzzles there must be answers.&lt;br /&gt;&lt;br /&gt;Then another accident occurs as a massive storm heads toward Vermont. This is too much for the parents and administrators. Ellingham Academy is evacuated. Obviously, it’s time for Stevie to do something stupid. It’s time to stay on the mountain and face the storm—and a murderer.&lt;br /&gt;&lt;br /&gt;In the tantalizing finale to the Truly Devious trilogy, &lt;i&gt;New York Times&lt;/i&gt; bestselling author Maureen Johnson expertly tangles her dual narrative threads and ignites an explosive end for all who’ve walked through Ellingham Academy.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;i&gt;New York Times&lt;/i&gt; bestselling author Maureen Johnson delivers the witty and pulse-pounding conclusion to the Truly Devious series as Stevie Bell solves the mystery that has haunted Ellingham Academy for over 75 years.&lt;/b&gt;</description>
+            <authors>
+                <author>
+                    <id>10317</id>
+                    <name>Maureen Johnson</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1553388891p5/10317.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1553388891p2/10317.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/10317.Maureen_Johnson]]>
+                    </link>
+                    <average_rating>3.94</average_rating>
+                    <ratings_count>652850</ratings_count>
+                    <text_reviews_count>69244</text_reviews_count>
+                </author>
+            </authors>
+            <published>2020</published>
+            <work>
+                <id>49916473</id>
+                <uri>kca://work/amzn1.gr.work.v1.5C_VwvR-l3y9JBhWOmMgtA</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">39893545</id>
+            <isbn>0062338080</isbn>
+            <isbn13>9780062338082</isbn13>
+            <text_reviews_count type="integer">4081</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.cBLupqJmLt_oLMC5QX5UFg</uri>
+            <title>The Vanishing Stair (Truly Devious, #2)</title>
+            <title_without_series>The Vanishing Stair</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529970325l/39893545._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529970325l/39893545._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/39893545-the-vanishing-stair</link>
+            <num_pages>369</num_pages>
+            <format>Hardcover</format>
+            <edition_information/>
+            <publisher>Katherine Tegen Books</publisher>
+            <publication_day>22</publication_day>
+            <publication_year>2019</publication_year>
+            <publication_month>1</publication_month>
+            <average_rating>4.25</average_rating>
+            <ratings_count>27483</ratings_count>
+            <description>All Stevie Bell wanted was to find the key to the Ellingham mystery, but instead she found her classmate dead. And while she solved that murder, the crimes of the past are still waiting in the dark. Just as Stevie feels she’s on the cusp of putting it together, her parents pull her out of Ellingham academy.&lt;br /&gt;&lt;br /&gt;For her own safety they say. She must move past this obsession with crime. Now that Stevie’s away from the school of topiaries and secret tunnels, and her strange and endearing friends, she begins to feel disconnected from the rest of the world. At least she won’t have to see David anymore. David, who she kissed. David, who lied to her about his identity—son of despised politician Edward King. Then King himself arrives at her house to offer a deal: He will bring Stevie back to Ellingham immediately. In return, she must play nice with David. King is in the midst of a campaign and can’t afford his son stirring up trouble. If Stevie’s at school, David will stay put.&lt;br /&gt;&lt;br /&gt;The tantalizing riddles behind the Ellingham murders are still waiting to be unraveled, and Stevie knows she’s so close. But the path to the truth has more twists and turns than she can imagine—and moving forward involves hurting someone she cares for. In New York Times bestselling author Maureen Johnson’s second novel of the &lt;i&gt;Truly Devious&lt;/i&gt; series, nothing is free, and someone will pay for the truth with their life.</description>
+            <authors>
+                <author>
+                    <id>10317</id>
+                    <name>Maureen Johnson</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1553388891p5/10317.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1553388891p2/10317.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/10317.Maureen_Johnson]]>
+                    </link>
+                    <average_rating>3.94</average_rating>
+                    <ratings_count>652850</ratings_count>
+                    <text_reviews_count>69244</text_reviews_count>
+                </author>
+            </authors>
+            <published>2019</published>
+            <work>
+                <id>49916464</id>
+                <uri>kca://work/amzn1.gr.work.v1.13KWgj68B_76_OldO308xQ</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">29589074</id>
+            <isbn nil="true"/>
+            <isbn13 nil="true"/>
+            <text_reviews_count type="integer">7058</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.umY-ofl-fuKvXWqP2eBHMA</uri>
+            <title>Truly Devious (Truly Devious, #1)</title>
+            <title_without_series>Truly Devious</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498501619l/29589074._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498501619l/29589074._SX50_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/29589074-truly-devious</link>
+            <num_pages>416</num_pages>
+            <format>Hardcover</format>
+            <edition_information/>
+            <publisher>HarperCollins</publisher>
+            <publication_day>16</publication_day>
+            <publication_year>2018</publication_year>
+            <publication_month>1</publication_month>
+            <average_rating>4.03</average_rating>
+            <ratings_count>45797</ratings_count>
+            <description>Ellingham Academy is a famous private school in Vermont for the brightest thinkers, inventors, and artists. It was founded by Albert Ellingham, an early twentieth century tycoon, who wanted to make a wonderful place full of riddles, twisting pathways, and gardens. “A place,” he said, “where learning is a game.”&lt;br /&gt;&lt;br /&gt;Shortly after the school opened, his wife and daughter were kidnapped. The only real clue was a mocking riddle listing methods of murder, signed with the frightening pseudonym “Truly, Devious.” It became one of the great unsolved crimes of American history.&lt;br /&gt;&lt;br /&gt;True-crime aficionado Stevie Bell is set to begin her first year at Ellingham Academy, and she has an ambitious plan: She will solve this cold case. That is, she will solve the case when she gets a grip on her demanding new school life and her housemates: the inventor, the novelist, the actor, the artist, and the jokester. But something strange is happening. Truly Devious makes a surprise return, and death revisits Ellingham Academy. The past has crawled out of its grave. Someone has gotten away with murder. &lt;br /&gt;&lt;br /&gt;The two interwoven mysteries of this first book in the Truly Devious series dovetail brilliantly, and Stevie Bell will continue her relentless quest for the murderers in books two and three.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;em&gt;New York Times &lt;/em&gt;bestselling author Maureen Johnson weaves a delicate tale of murder and mystery in the first book of a striking new series, perfect for fans of Agatha Christie and E. Lockhart.&lt;/strong&gt;</description>
+            <authors>
+                <author>
+                    <id>10317</id>
+                    <name>Maureen Johnson</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1553388891p5/10317.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1553388891p2/10317.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/10317.Maureen_Johnson]]>
+                    </link>
+                    <average_rating>3.94</average_rating>
+                    <ratings_count>652850</ratings_count>
+                    <text_reviews_count>69244</text_reviews_count>
+                </author>
+            </authors>
+            <published>2018</published>
+            <work>
+                <id>49916452</id>
+                <uri>kca://work/amzn1.gr.work.v1.BTyjDR9pp3HjbFLTZkiF3g</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">2459785</id>
+            <isbn nil="true"/>
+            <isbn13 nil="true"/>
+            <text_reviews_count type="integer">3449</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.9nGLYTOpfrwIrelNpWZpHQ</uri>
+            <title>In the Woods (Dublin Murder Squad, #1)</title>
+            <title_without_series>In the Woods</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562761513l/2459785._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562761513l/2459785._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/2459785.In_the_Woods</link>
+            <num_pages>431</num_pages>
+            <format>Paperback</format>
+            <edition_information/>
+            <publisher>Penguin Books</publisher>
+            <publication_day>27</publication_day>
+            <publication_year>2008</publication_year>
+            <publication_month>5</publication_month>
+            <average_rating>3.77</average_rating>
+            <ratings_count>297371</ratings_count>
+            <description>A gorgeously written novel that marks the debut of an astonishing new voice in psychological suspense.&lt;br /&gt;&lt;br /&gt;As dusk approaches a small Dublin suburb in the summer of 1984, mothers begin to call their children home. But on this warm evening, three children do not return from the dark and silent woods. When the police arrive, they find only one of the children. He is gripping a tree trunk in terror, wearing blood-filled sneakers and unable to recall a single detail of the previous hours.&lt;br /&gt;&lt;br /&gt;Twenty years later, the found boy, Rob Ryan, is a detective on the Dublin Murder Squad and keeps his past a secret. But when a 12-year-old girl is found murdered in the same woods, he and Detective Cassie Maddox (his partner and closest friend) find themselves investigating a case chillingly similar to the previous unsolved mystery. Now, with only snippets of long-buried memories to guide him, Ryan has the chance to uncover both the mystery of the case before him and that of his own shadowy past.</description>
+            <authors>
+                <author>
+                    <id>138825</id>
+                    <name>Tana French</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1535655031p5/138825.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1535655031p2/138825.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/138825.Tana_French]]>
+                    </link>
+                    <average_rating>3.86</average_rating>
+                    <ratings_count>766378</ratings_count>
+                    <text_reviews_count>67256</text_reviews_count>
+                </author>
+            </authors>
+            <published>2008</published>
+            <work>
+                <id>3088141</id>
+                <uri>kca://work/amzn1.gr.work.v1.mPahoZvTd4vsoTHGWrhL0g</uri>
+            </work>
+        </book>
+        <book>
+            <id type="integer">5941114</id>
+            <isbn>0143115626</isbn>
+            <isbn13>9780143115625</isbn13>
+            <text_reviews_count type="integer">1653</text_reviews_count>
+            <uri>kca://book/amzn1.gr.book.v1.aST9QU0Z__1UiPLASzL5ZQ</uri>
+            <title>The Likeness (Dublin Murder Squad, #2)</title>
+            <title_without_series>The Likeness</title_without_series>
+            <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538062804l/5941114._SX98_.jpg</image_url>
+            <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538062804l/5941114._SY75_.jpg</small_image_url>
+            <large_image_url/>
+            <link>https://www.goodreads.com/book/show/5941114-the-likeness</link>
+            <num_pages>466</num_pages>
+            <format>Paperback</format>
+            <edition_information/>
+            <publisher>Penguin Books</publisher>
+            <publication_day>1</publication_day>
+            <publication_year>2009</publication_year>
+            <publication_month>5</publication_month>
+            <average_rating>4.05</average_rating>
+            <ratings_count>120430</ratings_count>
+            <description>In the “compellingˮ (&lt;i&gt;The Boston Globe&lt;/i&gt;) and “pitch perfectˮ (&lt;i&gt;Entertainment Weekly&lt;/i&gt;) follow-up to Tana French’s runaway bestseller &lt;i&gt;In the Woods&lt;/i&gt;, itʼs six months later and Cassie Maddox has transferred out of the Dublin Murder Squad with no plans to go back—until an urgent telephone call summons her to a grisly crime scene. The victim looks exactly like Cassie and carries ID identifying herself as Alexandra Madison, an alias Cassie once used as an undercover cop. Cassie must discover not only who killed this girl, but, more important, who was this girl?&lt;br /&gt;&lt;br /&gt;&lt;i&gt;New York Times&lt;/i&gt; bestselling author Tana French, author of &lt;i&gt;The Witch Elm&lt;/i&gt;, is “the most important crime novelist to emerge in the past 10 years” (&lt;i&gt;The Washington Post&lt;/i&gt;) and “inspires cultic devotion in readers” (&lt;i&gt;The New Yorker&lt;/i&gt;).&lt;br /&gt;&lt;br /&gt;“Required reading for anyone who appreciates tough, unflinching intelligence and ingenious plotting.” —&lt;i&gt;The New York Times&lt;/i&gt;</description>
+            <authors>
+                <author>
+                    <id>138825</id>
+                    <name>Tana French</name>
+                    <role></role>
+                    <image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1535655031p5/138825.jpg]]>
+                    </image_url>
+                    <small_image_url nophoto='false'>
+                        <![CDATA[https://images.gr-assets.com/authors/1535655031p2/138825.jpg]]>
+                    </small_image_url>
+                    <link>
+                        <![CDATA[https://www.goodreads.com/author/show/138825.Tana_French]]>
+                    </link>
+                    <average_rating>3.86</average_rating>
+                    <ratings_count>766378</ratings_count>
+                    <text_reviews_count>67256</text_reviews_count>
+                </author>
+            </authors>
+            <published>2009</published>
+            <work>
+                <id>6504351</id>
+                <uri>kca://work/amzn1.gr.work.v1.kMUYMfqryfWCGKxM6GYlgQ</uri>
+            </work>
+        </book>
+    </books>
+</GoodreadsResponse>
